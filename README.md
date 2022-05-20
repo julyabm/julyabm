@@ -4,7 +4,7 @@
 - 👩‍💻 Atualmente trabalho com desenvolvimento front-end
 - 📃 Minhas especialidades para desenvolvimento são ReactJS e Typescript
 - 🎓 Sou Técnica em Informática pelo Instituto Federal de Santa Catarina
-- 📚 Estou cursando a graduação de Ciência da Computação na Universidade da Fronteira Sul
+- 📚 Estou cursando a graduação de Ciência da Computação na Universidade Federal da Fronteira Sul
 
 <div align="space-between">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julyabm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=tru"/>
