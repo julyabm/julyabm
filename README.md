@@ -2,7 +2,7 @@
 
 - 👩🏻‍🦰 Me chamo Julya Brustolin Marssona
 - 👩‍💻 Atualmente trabalho com desenvolvimento front-end
-- 📃 Minhas especialidades para desenvolvimento são ReacJS e Typescript
+- 📃 Minhas especialidades para desenvolvimento são ReactJS e Typescript
 - 🎓 Sou Técnica em Informática pelo Instituto Federal de Santa Catarina
 - 📚 Estou cursando a graduação de Ciência da Computação na Universidade da Fronteira Sul
 
@@ -24,8 +24,7 @@
 ##
 
 <div style="display: flex; flex-direction: row; flex: 1"> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:julyab.marssona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/juh_marssona" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julya-brustolin-marssona-4812361a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
